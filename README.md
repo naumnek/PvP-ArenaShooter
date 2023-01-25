@@ -1,4 +1,4 @@
-# PvP-ArenaShooter
+# PvP ArenaShooter
 (Best Project) 3D-WebGL-Third-Person-Shooter
 <p>Plugins: Cinemachine, New InputSystem, TextMeshPro, AI Navigation, Animation Rigging</a>
 <p>Developed as: Freelance</a>
