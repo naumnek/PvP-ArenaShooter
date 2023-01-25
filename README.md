@@ -1,5 +1,6 @@
 # FPS Arena
  (Best Project) 3D-WebGL-Third-Person-Shooter
+<p>Plugins: Cinemachine, New InputSystem, TextMeshPro, Animation Rigging</a>
 <p>Developed as: Freelance</a>
 <p>Release Version: <a href="https://naumnek.itch.io/fps-robot-arena" title="Open from Itch.io">itch.io</a>
  <p></a>
