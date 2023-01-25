@@ -1,5 +1,5 @@
-# FPS Arena
- (Best Project) 3D-WebGL-Third-Person-Shooter
+# PvP-ArenaShooter
+(Best Project) 3D-WebGL-Third-Person-Shooter
 <p>Plugins: Cinemachine, New InputSystem, TextMeshPro, AI Navigation, Animation Rigging</a>
 <p>Developed as: Freelance</a>
 <p>Release Version: <a href="https://naumnek.itch.io/pvp-arena-shooter" title="Open from Itch.io">itch.io</a>
